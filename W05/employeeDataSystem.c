@@ -4,6 +4,7 @@
  */
 
 #define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 
 // Define Number of Employees "SIZE" to be 4
